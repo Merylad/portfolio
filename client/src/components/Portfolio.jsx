@@ -64,7 +64,7 @@ const Portfolio = () => {
     {/* Left Column - Description */}
     <div className="knowme md:w-1/2 md:pr-8 mb-8 md:mb-0">
       <h2 className="text-2xl font-bold text-sky-700 mb-4">Get to know me!</h2>
-      <p className="text-gray-700 leading-relaxed">
+      <p className="text-xl text-gray-700 leading-relaxed">
         After 10 years as a physiotherapist in France, I made Alyah and started
         from scratch learning programming with the amazing bootcamp{" "}
         <strong>
@@ -85,7 +85,7 @@ const Portfolio = () => {
    {/* Right Column - Skills */}
 <div className="skills md:w-1/2 bg-pink-50 p-6 rounded-lg shadow-md">
   <h2 className="text-2xl font-bold text-sky-700 mb-4 text-center">My Skills</h2>
-  <ul className="grid grid-cols-2 gap-x-4 gap-y-2 text-gray-800 text-lg">
+  <ul className="grid grid-cols-2 gap-x-4 gap-y-2 text-gray-800 text-lg text-center">
     <li>REACT</li>
     <li>REDUX TOOLKIT</li>
     <li>NODEJS</li>
